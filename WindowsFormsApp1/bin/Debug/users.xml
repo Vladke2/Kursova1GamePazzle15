@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>Vladke</Name>
+    <Password>12345678</Password>
+    <BestMoves>0</BestMoves>
+    <BestTime>0</BestTime>
+  </User>
+  <User>
+    <Name>1</Name>
+    <Password>1</Password>
+    <BestMoves>0</BestMoves>
+    <BestTime>0</BestTime>
+  </User>
+  <User>
+    <Name>2</Name>
+    <Password>2</Password>
+    <BestMoves>0</BestMoves>
+    <BestTime>0</BestTime>
+  </User>
+  <User>
+    <Name>1111</Name>
+    <Password>1111</Password>
+    <BestMoves>3</BestMoves>
+    <BestTime>3</BestTime>
+  </User>
+</ArrayOfUser>
