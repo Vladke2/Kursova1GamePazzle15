@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "1",
+    "Password": "1111",
+    "BestMoves": 7,
+    "BestTime": 9100,
+    "HasSavedGame": true,
+    "SavedSize": 3,
+    "SavedMoves": 0,
+    "SavedTime": 23323,
+    "SavedBoard": [
+      1,
+      2,
+      4,
+      0,
+      6,
+      3,
+      7,
+      5,
+      8
+    ],
+    "WinsPerSize": {
+      "3": 2
+    }
+  },
+  {
+    "Name": "3",
+    "Password": "3333",
+    "BestMoves": 0,
+    "BestTime": 0,
+    "HasSavedGame": false,
+    "SavedSize": 0,
+    "SavedMoves": 0,
+    "SavedTime": 0,
+    "SavedBoard": [],
+    "WinsPerSize": {}
+  }
+]
